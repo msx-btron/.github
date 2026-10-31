@@ -11,3 +11,15 @@ All source code, documentation, specifications, and artifacts have been independ
 Any person or entity that forks this repository does so under the terms of the applicable license. By creating a fork, that person or entity assumes full, sole, and exclusive legal responsibility for all subsequent actions, modifications, distributions, commercial or non-commercial uses, and any legal consequences arising from the forked materials. The original authors and maintainers of this project expressly disclaim any responsibility, liability, or endorsement for the conduct of any forker or for any derivative work created after the point of forking.
 
 This statement is made in good faith as an accurate and complete characterization of the project’s origin, methodology, scope, and intent. Counsel may rely upon it.
+
+----------
+
+法的声明書 — B-System / MSX-BTRON プロジェクト本プロジェクトは、B-System（BTRON 3.20）と称され、MSX-BTRON組織の下で維持管理されるものであり、厳密に非商業的、純粋に教育的かつ科学的なコンピュータサイエンス研究事業である。本プロジェクトは、標準C99のみにより実装された、BTRON／TRONパーソナルコンピュータオペレーティング環境および関連サブシステム（組み込みtronMSX MSX2+マシンモデルを含む）の、公開されたアーキテクチャ仕様、インターフェースおよび歴史的設計原則のクリーンルーム方式による再作成である。
+
+本プロジェクトは、学術研究、歴史的保存、技術実証、システム研究およびオープンな知識の進展のみを目的として実施される。原著作者は、いかなる種類の商業的利用、収益化、製品化または利益創出活動を意図せず、許可せず、また認めない。すべてのソースコード、文書、仕様および成果物は、クリーンルーム方式により独立して開発されたものである。第三者のいかなる専有ソースコード、バイナリファームウェア、著作権保護された文書その他の保護対象物も、侵害を構成する態様で複製または組み込まれていない。
+
+フォークおよび独立した法的責任
+
+本リポジトリをフォークするいかなる個人または団体も、適用されるライセンスの条件の下でこれを行う。フォークを作成することにより、当該個人または団体は、フォークされた素材に基づくその後のすべての行為、改変、頒布、商業的または非商業的利用、およびそれらから生じるいかなる法的結果についても、完全かつ単独かつ排他的な法的責任を負う。
+
+本プロジェクトの原著作者および維持管理者は、いかなるフォーク実施者の行為またはフォーク時点以降に作成された派生的著作物について、一切の責任、債務または承認を明示的に否認する。本声明は、本プロジェクトの起源、方法論、範囲および意図の正確かつ完全な性格付けとして、誠実に作成されたものである。弁護士はこれに依拠することができる。
